@@ -1,0 +1,28 @@
+{
+  "name": "curso-de-asincronismo-con-javascript",
+  "version": "1.0.0",
+  "description": "trabajar con asicronismo en javascript",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js",
+    "callback:challenge": "node src/callback/challenge.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdmm0718/Curso-de-Asincronismo-con-JavaScript.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "author": "juan david murillo mejia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jdmm0718/Curso-de-Asincronismo-con-JavaScript/issues"
+  },
+  "homepage": "https://github.com/jdmm0718/Curso-de-Asincronismo-con-JavaScript#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
